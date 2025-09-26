@@ -1,6 +1,6 @@
 # Road-Accident-Dashboard-using-Excel-
 
-# ROAD ACCIDENT DASHBOARD USING EXCEL
+
 
 The objective of my Excel project was to improve my proficiency  for data cleaning, data processing,data analysis, and data visualization to show the insights of dashboard. 
 ## Data Gathering & Cleaning
