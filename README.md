@@ -37,7 +37,8 @@ In the data processing phase, one of the requirements was to show a trend line c
 
 # Demo image for data analysis for key insights
 
-   "https://github.com/user-attachments/assets/57d8ceb4-6e4f-4b65-b357-74e9f09c4bd7" />
+   <img width="1938" height="1048" alt="Data analysis" src="https://github.com/user-attachments/assets/fea55993-2edf-4061-a15b-6bf4ee525faa" />
+
 
 ## Conclusion
 
@@ -48,4 +49,5 @@ The Road Accident Dashboard project provided valuable insights into accident pat
   
 ## Dashboard Image
 
-   "https://github.com/user-attachments/assets/3d8fc184-0568-43c7-a6a9-19c73d9a9938" />
+ 
+<img width="1392" height="667" alt="excel dashboard" src="https://github.com/user-attachments/assets/af57d639-4ef9-4bbc-b43d-bad43b1e2b5c" />
