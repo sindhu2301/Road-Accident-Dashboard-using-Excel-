@@ -37,8 +37,7 @@ In the data processing phase, one of the requirements was to show a trend line c
 
 # Demo image for data analysis for key insights
 
-   <img width="1938" height="1048" alt="Data analysis" src="https://github.com/user-attachments/assets/fea55993-2edf-4061-a15b-6bf4ee525faa" />
-
+<img width="1200" height="893" alt="2025-09-27_16h08_59" src="https://github.com/user-attachments/assets/e3a747da-24db-4d0a-be29-c7ef37baef87" />
 
 ## Conclusion
 
